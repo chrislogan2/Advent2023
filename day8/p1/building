@@ -1,0 +1,4 @@
+run "tsc" with no args to build
+then compiled js file is in out folder
+run with 
+node out/day8.js
