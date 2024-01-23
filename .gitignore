@@ -1,2 +1,12 @@
 .vscode
 *.txt
+bin/
+*.o
+*.mod
+*.csv
+target/
+Cargo.lock
+out/
+*.jar
+.DS_Store
+obj/
